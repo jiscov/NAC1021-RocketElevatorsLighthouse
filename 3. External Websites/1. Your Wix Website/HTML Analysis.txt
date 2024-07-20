@@ -1,0 +1,1 @@
+Please place your exported wix.html file from the Lighthouse analysis results in the current folder.

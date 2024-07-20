@@ -1,0 +1,1 @@
+Please place your exported externalWebsite.html file from the Lighthouse analysis results in the current folder.
